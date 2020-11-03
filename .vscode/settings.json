@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.htm": "html",
+        "DELETION_CODE.C": "cpp"
+    }
+}
